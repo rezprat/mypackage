@@ -1,9 +1,9 @@
 {
-    "name": "vendor/my-package",
+    "name": "rezprat/my-package",
     "description": "A simple example package",
     "type": "library",
     "require": {
-        "php": ">=7.4"
+        "php": ">=7.1"
     },
     "autoload": {
         "psr-4": {
